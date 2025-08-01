@@ -1,0 +1,9 @@
+node_modules/
+.env
+uploads/
+extensions/displays/*/dist
+extensions/interfaces/*/dist
+extensions/layouts/*/dist
+extensions/modules/*/dist
+extensions/panels/*/dist
+.DS_Store
